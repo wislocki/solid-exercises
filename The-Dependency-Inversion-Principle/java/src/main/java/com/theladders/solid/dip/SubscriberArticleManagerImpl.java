@@ -8,7 +8,7 @@ import java.util.Map;
 
 public class SubscriberArticleManagerImpl implements SubscriberArticleManager
 {
-  private static final String              IMAGE_PREFIX       = "http://somecdnprodiver.com/static/images/careerAdvice/";
+  private static final String              IMAGE_PREFIX       = "http://somecdnprovider.com/static/images/careerAdvice/";
   private static final Map<String, String> CATEGORY_IMAGE_MAP = new HashMap<>();
 
   static
