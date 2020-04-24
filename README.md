@@ -8,7 +8,7 @@ Exercises to do after watching the Clean Coders' SOLID video series
 [Exercise](https://github.com/wislocki/solid-exercises/tree/master/The-Single-Responsibility-Principle)
 1.  Episode 10: [The Open-Closed Principle](https://cleancoders.com/episode/clean-code-episode-10)  
 [Exercise](https://github.com/wislocki/solid-exercises/tree/master/The-Open-Closed-Principle)
-1.  Episode 11: [The Liskov Substiution Principle](https://cleancoders.com/episode/clean-code-episode-11)  
+1.  Episode 11: [The Liskov Substiution Principle Part 1](https://cleancoders.com/episode/clean-code-episode-11-p1) and [Part 2](https://cleancoders.com/episode/clean-code-episode-11-p2)  
 [Exercise](https://github.com/wislocki/solid-exercises/tree/master/The-Liskov-Substitution-Principle)
 1.  Episode 12: [The Interface Segregation Principle](https://cleancoders.com/episode/clean-code-episode-12)  
 [Exercise](https://github.com/wislocki/solid-exercises/tree/master/The-Interface-Segregation-Principle)
